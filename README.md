@@ -1,6 +1,7 @@
-Write a README.md for a pfsense config and backup github# pfSense Config and Backup
-
 This repository contains the configuration files and backup scripts for my pfSense firewall/router setup.
+
+
+![neofetch](assets/neofetch.png)
 
 ## Configuration Files
 
